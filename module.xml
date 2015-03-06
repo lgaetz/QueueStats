@@ -1,0 +1,11 @@
+<module>
+<rawname>queuestats</rawname>
+<name>queuestats</name>
+<version>0.0.1</version>
+<type>reports</type>
+<category>Reports</category>
+ 
+<menuitems>
+<queuestats>queuestats</queuestats>
+</menuitems>
+</module>
